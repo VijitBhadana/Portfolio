@@ -33,10 +33,10 @@ const Skills = () => {
   ];
 
   const projects = [
-    { name: 'E-commerce Platform', link: '#' },
+    { name: 'E-commerce Website', link: 'https://www.flytiumdrones.com/' },
     { name: 'Portfolio Website', link: '#' },
-    { name: 'Task Manager', link: '#' },
-    { name: 'Weather App', link: '#' },
+    { name: 'Task Manager', link: 'https://to-do-list-app-chi-olive.vercel.app/' },
+    { name: 'Weather App', link: 'https://weather-app-eight-dun-32.vercel.app/' },
     { name: 'Chat Application', link: '#' },
     { name: 'Blog Platform', link: '#' }
   ];

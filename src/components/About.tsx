@@ -18,7 +18,7 @@ const About = () => {
             <div className="absolute inset-0 rounded-full bg-sky-400/20 animate-pulse"></div>
             <div className="absolute inset-4 rounded-full bg-sky-400/40 animate-pulse animation-delay-200"></div>
             <img
-              src="src\Images\my pic 2.jpg"
+              src="/Images/Images/my pic 2.jpg"
               alt="About Vijit"
               className="rounded-full w-full h-full object-cover relative z-10 animate-float"
             />

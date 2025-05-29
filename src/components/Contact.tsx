@@ -58,7 +58,7 @@ const Contact = () => {
             <div className="relative w-64 h-64 mx-auto mb-8">
               <div className="absolute inset-0 rounded-full border-2 border-sky-400 animate-spin-slow"></div>
               <img
-                src="src\Images\me 2.jpg"
+                src="/Images/Images/me 2.jpg"
                 alt="Contact"
                 className="rounded-full w-full h-full object-cover"
               />
